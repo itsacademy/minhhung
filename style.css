@@ -1,0 +1,566 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
+
+.home {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/banner/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    min-height: 100vh;
+    background-size: 100% 100%;
+}
+
+
+@media(max-width: 992px) {
+    .dog {
+        display: none;
+    }
+}
+
+.firstpart {
+    height: 100vh;
+    padding-top: 200px;
+}
+
+
+.dog {
+    width: 100%;
+    height: auto;
+}
+
+.Care {
+    color: white;
+    font-size: 70px;
+    font-weight: 175;
+}
+
+.Pets {
+    font-weight: 700;
+    font-size: 80px;
+    ;
+}
+
+.Lorem {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Contact {
+    width: 190px;
+    height: 60px;
+    color: rgb(235, 53, 24);
+    font-size: 17px;
+    ;
+    border-radius: 40px;
+}
+
+.Contact:hover {
+    background-color: rgb(229, 36, 22);
+    color: white;
+}
+
+.Services {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 150px;
+    padding-bottom: 120px;
+}
+
+.catimg {
+    width: 100%;
+}
+
+.Lorem2 {
+    font-size: 17px;
+    ;
+    color: gray;
+    text-align: center;
+}
+
+.servicesfordogs {
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.PetServices {
+    height: 500px;
+    text-align: center;
+    padding-top: 100px;
+    border-radius: 15px;
+    border: 2px solid rgb(255, 196, 193);
+    margin-bottom: 20px;
+}
+
+.PetServices:hover {
+    box-shadow: 10px 10px 40px grey;
+}
+
+
+.textpadding {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.imgg {
+    margin: 0 auto;
+    width: 168px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/service/service_icon_bg_1.png);
+    background-repeat: no-repeat;
+}
+
+.Us {
+    background-color: rgb(238, 86, 26);
+    color: white;
+    height: 60px;
+    width: 190px;
+    border-radius: 100px;
+}
+
+.thirdpart {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+
+
+.YouCare {
+    font-size: 60px;
+    font-weight: 800;
+}
+
+.CarePet {
+    font-size: 60px;
+}
+
+.Text {
+    padding-bottom: 30px;
+}
+
+
+
+
+.box1part4 {
+    padding-top: 200px;
+}
+
+
+.Available {
+    background-color: white;
+    width: 100%;
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 20px 20px 50px grey;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+
+
+.box1Available {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 270px;
+    background-color: white;
+    box-shadow: 20px 20px 50px grey;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.box2Available {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 270px;
+    background-color: white;
+    margin-top: 100px;
+    box-shadow: 20px 20px 50px grey;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+.fifthpart {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 110px;
+    padding-right: 50px;
+    box-shadow: 20px 20px 40px grey;
+    border-radius: 20px;
+}
+
+.Lorempart5 {
+    font-size: 18px;
+}
+
+.Head {
+    color: gray
+}
+
+
+
+.part5 {
+    padding-top: 200px;
+}
+
+.sixth {
+    padding-bottom: 100px;
+}
+
+.Rala {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/team/1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Rala>div {
+    background-color: white;
+    width: 175px;
+    height: 80px;
+    text-align: center;
+    box-shadow: 20px 20px 40px grey;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.Smith {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/team/2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Smith>div {
+    background-color: white;
+    width: 175px;
+    height: 80px;
+    text-align: center;
+    box-shadow: 20px 20px 40px grey;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.Emaia {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/team/3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Emaia>div {
+    background-color: white;
+    width: 175px;
+    height: 80px;
+    text-align: center;
+    box-shadow: 20px 20px 40px grey;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+
+.eighth {
+    padding-top: 100px;
+}
+
+.seventh {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/banner/contact_bg.png.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-top: 125px;
+    padding-bottom: 125px;
+    text-align: center;
+
+}
+
+.Anipat {
+    color: white;
+    font-size: 50px;
+    font-weight: 800;
+    padding-bottom: 40px;
+}
+
+.text7 {
+    color: white;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+
+.span7 {
+    color: white;
+    padding-left: 30px;
+}
+
+.pn {
+    font-weight: 800;
+    color: white;
+    padding-left: 30px;
+}
+
+.Contactus {
+    background-color: white;
+    color: rgb(238, 86, 26);
+    height: 60px;
+    width: 190px;
+    border-radius: 100px;
+}
+
+.Contactus:hover {
+    background-color: rgb(238, 86, 26);
+    color: white;
+}
+
+.text8 {
+    color: gray;
+}
+
+.bold {
+    padding-bottom: 30px;
+}
+
+.thefirstpage {
+    background-image: url(https://preview.colorlib.com/theme/anipat/img/banner/bradcam.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50vh;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.abouttext {
+    color: white;
+    font-weight: 800;
+    font-size: 70px;
+}
+
+.map {
+    padding-top: 100px;
+}
+
+.contact {
+    padding-top: 100px;
+    padding-bottom: 75px;
+}
+
+.SEND {
+    height: 57px;
+    width: 140px;
+    background-color: white;
+    color: rgb(255, 53, 0);
+    border: 2px solid rgb(255, 53, 0);
+}
+
+.SEND:hover {
+    background-color: rgb(255, 53, 0);
+    color: white;
+}
+
+.message {
+    margin-bottom: 20px;
+    width: 100%;
+    height: 180px;
+    border: 1px solid rgb(229, 230, 233);
+    padding-bottom: 150px;
+    padding-left: 10px;
+}
+
+.nameemail {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.name {
+    height: 40px;
+    width: 49%;
+    padding-bottom: 17px;;
+    padding-left: 10px;
+    border: 1px solid rgb(229, 230, 233);
+
+}
+
+.email {
+    height: 40px;
+    width: 49%;
+    padding-bottom: 17px;;
+    padding-left: 10px;
+    border: 1px solid rgb(229, 230, 233);
+}
+
+
+
+.subject {
+    margin-bottom: 20px;
+    width: 100%;
+    border: 1px solid rgb(229, 230, 233);
+    width: 100%;
+    height: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.contacticon{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 30px;
+    width: 50%;
+    margin: auto;
+}
+
+
+.buttonwood{
+    padding-left: 30px;
+}
+
+.contact-box-2{
+    padding-top: 50px;
+
+
+
+}
+
+.contact-text{
+    color: gray;
+}
+
+.eighthbackground{
+    background-color:rgb(248,248,248);
+    padding-bottom: 100px;
+}
+
+.logo{ 
+}
+
+.link{
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.active-link{
+    font-weight: 500;
+    color: rgb(239,65,27) !important;
+    margin-left:20px ;
+}
+
+.link-container{
+    justify-content: end;
+}
+
+.blog1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.blog2-1{
+    margin-bottom:50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(251,249,254);
+}
+.blog2-2{
+    padding-left: 25px;
+    background-color: rgb(251,249,254);
+}
+
+.blogheadtext{
+    font-weight: 500;
+    font-size: 25px;
+}
+.blogtext{
+    padding-bottom: 15px;
+}
+
+.Search{
+    height: 65px;
+    width: 240px;
+    background-color: white;
+    color: rgb(255, 53, 0);
+    border: 2px solid rgb(255, 53, 0);
+}
+
+.Search:hover {
+    background-color: rgb(255, 53, 0);
+    color: white;
+}
+
+.messageblog{
+    margin-bottom: 20px;
+    width: 80%;
+    height: 50px;
+    border: 1px solid rgb(229, 230, 233);
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.blogg{
+    padding-top: 100px;
+}
+
+.blog1-1{
+    padding-bottom: 100px;
+    box-shadow: 10px 10px 40px grey;
+}
+.blogimg{
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.blog1text{
+    color: grey;
+    padding-left: 20px;
+}
+
+.googletext{
+    padding-left: 20px;
+}
+
+@media(max-width:500px) {
+    .contacticon {
+        margin: 0px;
+    }}
+
+
+.copyright{
+    padding-top: 100px;
+}
+
+.mh{
+    color: rgb(251,88,21);
+}
